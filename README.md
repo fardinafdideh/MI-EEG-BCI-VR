@@ -90,5 +90,6 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 
 # How to cite
 * F. Afdideh, M. B. Shamsollahi, “Subject-Specific Feature Extraction Approach for a Three-Class Motor Imagery-Based Brain-Computer Interface Enabling Navigation in a Virtual Home: Open Access Framework,” [under review](https://github.com/fardinafdideh/subject-specific-EEG-MI-BCI-VR-Journal).
+* F. Afdideh, M. B. Shamsollahi, (2024), “MI-EEG-BCI-VR”, [Mendeley Data](https://data.mendeley.com/datasets/p9y27y66jb/1), V1, doi: 10.17632/p9y27y66jb.1.
 * F. Afdideh, M. B. Shamsollahi, S. N. Resalat, “Development of a MATLAB-Based Toolbox for Brain Computer Interface Applications in Virtual Reality,” Iranian Conference on Electrical Engineering ([ICEE](https://ieeexplore.ieee.org/document/6292612)), pp. 1579-1583, 2012.
 * F. Afdideh. Brain-Computer Interface for Navigation in Virtual Environments. Electrical Engineering. Sharif University of Technology, 2011. Persian. ‭05-41575.
