@@ -83,12 +83,10 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 ![](/ppt/VE-tour-subject.gif)
 ![](/ppt/VE-task.gif)
 ![Slide43](/ppt/Slide43.PNG)
-![Slide44](/ppt/Slide44.PNG)
 ![Slide47](/ppt/Slide47.PNG)
 ![Slide49](/ppt/Slide49.PNG)
 ![Slide52](/ppt/Slide52.PNG)
 ![Slide53](/ppt/Slide53.PNG)
-![Slide54](/ppt/Slide54.PNG)
 
 # How to cite
 * F. Afdideh, M. B. Shamsollahi, “Subject-Specific Feature Extraction Approach for a Three-Class Motor Imagery-Based Brain-Computer Interface Enabling Navigation in a Virtual Home: Open Access Framework,” [under review](https://github.com/fardinafdideh/subject-specific-EEG-MI-BCI-VR-Journal).
