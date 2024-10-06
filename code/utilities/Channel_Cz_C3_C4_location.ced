@@ -1,0 +1,4 @@
+Number	labels	theta	radius	X	Y	Z	sph_theta	sph_phi	sph_radius	type
+1	C4	 90	0.267	3.87e-015	-63.2	56.9	-90	 42	 85	nan	
+2	C3	-90	0.267	3.87e-015	63.2	56.9	 90	 42	 85	nan	
+3	Cz	  0	  0	5.2e-015	 -0	 85	 -0	 90	 85	nan	
