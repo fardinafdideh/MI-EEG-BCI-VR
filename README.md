@@ -12,6 +12,7 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 ![](/ppt/Framework.png)
 
 ##  Cue-Based Training without Feedback
+![](/ppt/TimingWithoutFeedback.png)
 ![](/ppt/WithoutFeedback.gif)
 
 ## Subject-specific Feature and Classifier Selection
@@ -31,11 +32,15 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 ![](/ppt/GUI_Analysis.gif)
 
 ## Cue-Based Training with Feedback
+![](/ppt/TimingWithFeedback.png)
 ![](/ppt/WithFeedback.gif)
 
 ## Virtual Home Navigation
+### Static VE Tour
 ![](/ppt/VE-tour.gif)
+### Subject-Controlled VE Tour
 ![](/ppt/VE-tour-subject.gif)
+### VE Task
 ![](/ppt/VE-task.gif)
 
 ## VR in MI-based EEG-based BCI (MI-EEG-BCI-VR)
