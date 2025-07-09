@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/DOI-10.17632/p9y27y66jb.1-blue)](https://data.mendeley.com/datasets/p9y27y66jb/1)
+[![](https://img.shields.io/badge/DOI-10.1088/2057-1976/aded19-blue)](https://doi.org/10.1088/2057-1976/aded19)
 [![](https://img.shields.io/badge/DOI-10.1109/IranianCEE.2012.6292612-blue)](https://doi.org/10.1109/IranianCEE.2012.6292612)
 
 # Subject-Specific Feature Extraction Approach for a Three-Class Motor Imagery-Based Brain-Computer Interface Enabling Navigation in a Virtual Home: Open Access Framework
@@ -6,6 +7,9 @@ Brain-Computer Interface (BCI) is a system to assist disabled people by creating
 
 This repo describes a framework known as MI-EEG-BCI-VR, integrating Motor Imagery (MI) and electroencephalography (EEG)-based Brain-Computer Interface (BCI) technologies, enabling users to navigate Virtual Environments (VEs) by imagining movements. The subject-specific feature extraction approach was employed.
 To enhance user-friendliness and facilitate easy interaction, this repo contains interactive MATLAB-based Graphical User Interfaces (GUIs) for data acquisition, processing, visualization, and running tasks.
+
+## MI-EEG-BCI-VR Framework
+![](/ppt/Framework.png)
 
 ##  Cue-Based Training without Feedback
 ![](/ppt/WithoutFeedback.gif)
@@ -90,7 +94,7 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 ![Slide53](/ppt/Slide53.PNG)
 
 # How to cite
-* **F. Afdideh**, M. B. Shamsollahi, “Subject-Specific Feature Extraction Approach for a Three-Class Motor Imagery-Based Brain-Computer Interface Enabling Navigation in a Virtual Home: Open Access Framework,” [under review](https://github.com/fardinafdideh/subject-specific-EEG-MI-BCI-VR-Journal).
+* **F. Afdideh**, M. B. Shamsollahi, “Subject-Specific Feature Extraction Approach for a Three-Class Motor Imagery-Based Brain-Computer Interface Enabling Navigation in a Virtual Home: Open Access Framework,” Biomedical Physics & Engineering Express (BPEX), 2025, doi: 10.1088/2057-1976/aded19.
 * **F. Afdideh**, M. B. Shamsollahi, (2024), “MI-EEG-BCI-VR”, [Mendeley Data](https://data.mendeley.com/datasets/p9y27y66jb/1), V1, doi: 10.17632/p9y27y66jb.1.
 * **F. Afdideh**, M. B. Shamsollahi, S. N. Resalat, “Development of a MATLAB-Based Toolbox for Brain Computer Interface Applications in Virtual Reality,” Iranian Conference on Electrical Engineering ([ICEE](https://ieeexplore.ieee.org/document/6292612)), pp. 1579-1583, 2012, doi: 10.1109/IranianCEE.2012.6292612. 
-* **F. Afdideh**. Brain-Computer Interface for Navigation in Virtual Environments. Electrical Engineering. Sharif University of Technology, 2011. Persian. ‭05-41575.
+* **F. Afdideh**. Brain-Computer Interface for Navigation in Virtual Environments. Electrical Engineering. Sharif University of Technology, 2011. Persian. ‭[05-41575](http://library.sharif.ir/parvan/resource/292672/%D8%B1%D8%A7%D8%A8%D8%B7-%D9%85%D8%BA%D8%B2---%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%AD%DB%8C%D8%B7-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C).
