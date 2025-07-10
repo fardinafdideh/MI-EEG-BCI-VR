@@ -95,7 +95,6 @@ To enhance user-friendliness and facilitate easy interaction, this repo contains
 ![](/ppt/VE-task.gif)
 ![Slide43](/ppt/Slide43.PNG)
 ![Slide47](/ppt/Slide47.PNG)
-![Slide49](/ppt/Slide49.PNG)
 ![Slide52](/ppt/Slide52.PNG)
 ![Slide53](/ppt/Slide53.PNG)
 
